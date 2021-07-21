@@ -280,7 +280,7 @@ class awokawokawok:
 			self.set_ua()
 		
 		elif pilih in tuple("dD"):
-			exit(" hai, jika ingin berdonasi silahkan untuk mengisi pulsa ke nomor \x1b[1;37m085871118048\x1b[0m, saya sangat berterimakasih jika anda benar-benar ingin berdonasi :)")
+			exit(" hai, jika ingin berdonasi silahkan untuk mengisi pulsa ke nomor \x1b[1;37m083896353909\x1b[0m, saya sangat berterimakasih jika anda benar-benar ingin berdonasi :)")
 		
 		elif pilih in ("0","00"):
 			exit(" * thanks for using my tools, jangan lupa mampir lagi tod:v")
